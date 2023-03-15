@@ -1,0 +1,21 @@
+.detailBtn1{
+    background: orangered;
+    color: white;
+    padding: 8px 20px;
+    border: 1px solid orangered;
+}
+.detailBtn2{
+    border:1px solid orangered;
+    padding: 8px 20px;
+    color: orangered;
+    background-color: transparent;
+}
+
+.detailBtn3{
+    padding: 8px 20px;
+    border: 1px solid rgba(0, 0, 0, 0.319);
+    background-color: transparent;
+}
+.price{
+    color: orangered;
+}

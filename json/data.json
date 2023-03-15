@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Crop Top",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/0085/351/615/2/w/410/0085351615_2_1_1.jpg?ts=1678457763399",
+      "price": 21.5,
+      "description": "Straight neckline and one wide strap. Ruching detail."
+    },
+    {
+      "id": 2,
+      "title": "Long Coat",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2848/948/713/2/w/430/2848948713_2_2_1.jpg?ts=1678449679020",
+      "price": 156.5,
+      "description": "Long coat made of viscose blend fabric. Lapel collar and long sleeves with buttoned straps. Front pockets. Tonal lined interior. Front hidden button closure."
+    },
+    {
+      "id": 3,
+      "title": "Cross Body Bag",
+      "image": "https://static.zara.net/photos///2023/V/1/1/p/6065/110/800/2/w/430/6065110800_2_3_1.jpg?ts=1678289519229",
+      "price": 42.5,
+      "description": "Crossbody bag with flap. Removable and adjustable straps, one canvas shoulder strap and another crossbody strap. Magnetic closure."
+    },
+    {
+      "id": 4,
+      "title": "Suit",
+      "image": "https://static.zara.net/photos///2023/V/T/1/p/0213/354/400/2/w/430/0213354400_1_1_1.jpg?ts=1678447173103",
+      "price": 71.5,
+      "description": "Straight neckline and one wide strap. Ruching detail."
+    },
+    {
+      "id": 5,
+      "title": "Shorts",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/7149/042/800/17/w/563/7149042800_1_1_1.jpg?ts=1678455087391",
+      "price": 29.5,
+      "description": "High-waisted shorts with belt loops waistband. Front pleats. Front zip and button closure."
+    },
+    {
+      "id": 6,
+      "title": "Skirts",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/4391/416/506/2/w/430/4391416506_1_1_1.jpg?ts=1677245794653",
+      "price": 51.5,
+      "description": "High waisted skort made of gabardine fabric. Side patch pockets. Back hidden in-seam zip closure."
+    },
+    {
+      "id": 7,
+      "title": "Blazer Set",
+      "image": "https://static.zara.net/photos///2023/V/T/1/p/0273/127/800/2/w/430/0273127800_1_1_1.jpg?ts=1674649485975",
+      "price": 321.5,
+      "description": "Tailored blazer made of wool blend fabric. Lapel collar and long sleeves. Front flap pockets and chest welt pocket. Interior lining. Front button closure"
+    },
+    {
+      "id": 8,
+      "title": "Tie Dye Set",
+      "image": "https://static.zara.net/photos///2023/V/T/1/p/0247/401/330/2/w/563/0247401330_1_1_1.jpg?ts=1678099986072",
+      "price": 21.5,
+      "description": "Straight neckline and one wide strap. Ruching detail."
+    },
+    {
+      "id": 9,
+      "title": "Top",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/0858/034/250/2/w/563/0858034250_1_1_1.jpg?ts=1678377494751",
+      "price": 91.5,
+      "description": "T-shirt made of cotton. Sleeveless and round neckline with shoulder pads."
+    }
+  ]
+}

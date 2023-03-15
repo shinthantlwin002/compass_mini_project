@@ -1,0 +1,10 @@
+.icon{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.contactCard{
+    background: orangered;
+    width: 250px;
+    color: white;
+    padding: 15px 20px;
+}

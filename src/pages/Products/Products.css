@@ -1,0 +1,35 @@
+.productImg {
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+}
+.productCard {
+  width: 300px;
+
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px 2px rgba(152, 48, 7, 0.157);
+}
+.productBtn {
+  padding: 5px 10px;
+  width: 100%;
+  background: orangered;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.zoom {
+  padding: 50px;
+  transition: transform 0.2s;
+}
+
+.zoom:hover {
+  transform: scale(1.1);
+}
+
+/* Cardcss */
+.productTitle{
+    font-size: 17px;
+}
+
+

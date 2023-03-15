@@ -1,0 +1,10 @@
+.aboutImg2{
+    object-position: right;
+}
+.aboutImg,.aboutImg2{
+    height: 500px;
+    width: 400px;
+}
+*{
+    line-height: 5vh;
+}
